@@ -1,29 +1,27 @@
 # Strategic Life Units (SLUs)
 
-## Relationships
-- `Significant other` | Importance: 7 | Satisfaction: 4 | Time: 10
-- `Family` | Importance: 7 | Satisfaction: 7 | Time: 30
-- `Friendship` | Importance: 6 | Satisfaction: 6 | Time: 15
+Reflect on your week by assessing these key areas of your life. (INTJ-T specific)
 
-## Body, mind, and spirituality
-- `Physical health/sports` | Importance: 9 | Satisfaction: 8 | Time: 40
-- `Mental health/mindfulness` | Importance: 8 | Satisfaction: 9 | Time: 25
-- `Spirituality/faith` | Importance: 4 | Satisfaction: 3 | Time: 10
+Market Growth -> Importance
+Market Share -> Satisfaction
+Money -> Time
 
-## Community and society
-- `Community/citizenship` | Importance: 5 | Satisfaction: 7 | Time: 10
-- `Societal engagement` | Importance: 6 | Satisfaction: 4 | Time: 5
+- `Personal Development` | Importance: 7 | Satisfaction: 4 | Time: 10
+  Growth in knowledge and skills, including education, career, and hobbies.
 
-## Job, learning, and finances
-- `Job/career` | Importance: 9 | Satisfaction: 5 | Time: 50
-- `Education/learning` | Importance: 8 | Satisfaction: 7 | Time: 20
-- `Finances` | Importance: 7 | Satisfaction: 8 | Time: 10
+- `Health and Well-being` | Importance: 8 | Satisfaction: 7 | Time: 30
+  Physical health, mental well-being, and mindfulness practices.
 
-## Interests and entertainment
-- `Hobbies/interests` | Importance: 7 | Satisfaction: 8 | Time: 20
-- `Online entertainment` | Importance: 4 | Satisfaction: 9 | Time: 25
-- `Offline entertainment` | Importance: 6 | Satisfaction: 6 | Time: 15
+- `Key Relationships` | Importance: 6 | Satisfaction: 6 | Time: 30
+  Time and quality of interactions with significant others, family, and friends.
 
-## Personal care
-- `Physiological needs` | Importance: 10 | Satisfaction: 8 | Time: 35
-- `Activities of daily living` | Importance: 9 | Satisfaction: 9 | Time: 40
+- `Strategic Living` | Importance: 8 | Satisfaction: 7 | Time: 20
+  Activities that involve planning for the future, including finances and societal engagement.
+
+- `Recreation and Downtime` | Importance: 8 | Satisfaction: 5 | Time: 35
+  Balance work and development with relaxation, including both online and offline entertainment.
+
+- `Daily Routines` | Importance: 7 | Satisfaction: 6 | Time: 25
+  Day-to-day activities that maintain your lifestyle and personal space.
+
+Adjust the importance, satisfaction, and time based on your current focus and perspective. This succinct set of SLUs is designed to encapsulate a balanced view of life areas that an INTJ-T might find meaningful.
