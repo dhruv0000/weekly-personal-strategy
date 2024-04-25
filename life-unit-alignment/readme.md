@@ -2,6 +2,9 @@
 
 This repository contains a script to generate a visual representation of one's strategic life portfolio, inspired by the principles outlined in the Harvard Business Review article ["Use Strategic Thinking to Create the Life You Want"](https://hbr.org/2023/12/use-strategic-thinking-to-create-the-life-you-want).
 
+## TLDR
+It's a growth-share matrics used in fourtune 500 companies to make decisions. Read more [here]([url](https://www.bcg.com/about/overview/our-history/growth-share-matrix)).
+
 ## Overview
 
 The strategic life portfolio is a tool that helps individuals align their time and energy with what is truly important to them. By rating various aspects of life on importance, satisfaction, and time invested, one can visualize and strategize for a more fulfilling life.
